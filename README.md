@@ -1,5 +1,5 @@
 #SHRUTHI
-readme_with_icons = """<!-- Profile Header Image or GIF -->
+
 <img src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="100%"/>
 
 # Hey there, I'm Shruthi! 👋
