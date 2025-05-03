@@ -1,48 +1,57 @@
-## 👋 About Me:
-I’m a final-year IoT engineering student passionate about AI, ML, and building smart systems.
+<!-- Profile Header Image or GIF -->
+<img src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="100%"/>
+
+# Hey there, I'm Shruthi! 👋
+> Aspiring developer blending **IoT, AI/ML**, and **intelligent systems** into real-world solutions.  
+> Currently building 🔧 **Smart Applications** | Exploring 🌐 **ML Trends** | Writing 📚 cool code.
 
 ---
 
 ## 🚀 What I'm Up To
-- 🌱 Currently learning: `TensorFlow`, `ARIMA`, `PostgreSQL`
-- ⚙️ Building: Smart Parking System, EEG-Powered Music App
-- 🛠️ Working with: Arduino, ESP32, React, Supabase, MongoDB
+
+- 🤖 Working on **Predictive Smart Parking System** (IoT + ML + ARIMA)
+- 🧠 Learning **3D Rotations**, **PID Control** & **BCI Systems**
+- 🔐 Building **Self-balancing & Maze Solving Robots** with ESP32
+- 🧩 Developing **Sports Networking Platform** with Supabase & MongoDB
 
 ---
 
-## 🧠 About Me
-I’m also an active content creator, sharing knowledge on:
-- [Instagram](https://instagram.com/yourhandle)
-- [LinkedIn](https://linkedin.com/in/yourhandle)
-- [GitHub Portfolio](https://github.com/yourusername)
+## 💼 About Me
+
+🎓 Final Year @ Shiv Nadar University — IoT Specialization  
+🧠 Passionate about AI, Edge Devices, and Data-Driven Interfaces  
+🎤 Part of **Google Developer Group Core Team**  
+🎯 Loves clean UIs, meaningful motion, and intuitive design.
 
 ---
 
-## 🌐 Connect with Me:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=flat)](https://linkedin.com/in/yourhandle)
+## 🔗 Let's Connect
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=flat-square)](https://www.linkedin.com)  
+📬 Feel free to DM or reach out — happy to collaborate or chat!
 
 ---
 
-## 💻 Tech Stack:
+## 💻 Tech Stack
 
-**Languages**  
-![Python](https://img.shields.io/badge/Python-blue?logo=python)  
-![Java](https://img.shields.io/badge/Java-orange?logo=java)  
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white)  
-![CSS](https://img.shields.io/badge/CSS-1572B6?logo=css3&logoColor=white)  
-![JavaScript](https://img.shields.io/badge/JavaScript-yellow?logo=javascript)
-
-**Tools & Frameworks**  
-![React](https://img.shields.io/badge/React-20232A?logo=react)  
-![Node.js](https://img.shields.io/badge/Node.js-339933?logo=nodedotjs)  
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?logo=springboot)
-
-**DevOps & Cloud**  
-![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker)  
-![Microsoft Azure](https://img.shields.io/badge/Azure-0078D4?logo=microsoftazure)
-
-**Databases**  
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?logo=postgresql)  
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb)
+| 💡 Languages | ⚙️ Tools & Frameworks | 🌐 Cloud & DB |
+|-------------|------------------------|---------------|
+| ![Python](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg) Python<br> ![Java](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg) Java <br> C, HTML5, JS, SQL | ![React](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg) React<br> ![Spring](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg) Spring Boot<br> Postman, Git, PowerBI | ![PostgreSQL](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg) PostgreSQL<br> ![MongoDB](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg) MongoDB<br> Supabase, Azure, Docker |
 
 ---
+
+## ✨ Highlights
+
+- 🏆 **Reliance Foundation Scholar**
+- 🧪 Built **Voice2Hope** – AI for distress detection
+- 🎮 Created **EEG-based Game Controller**
+- 🧬 Designed **BCI-integrated Smart Home**
+
+---
+
+## 🧠 I Believe In
+
+```plaintext
+Code with empathy. 
+Design with purpose.
+Build for impact.
