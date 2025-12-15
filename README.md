@@ -10,9 +10,9 @@
 
 ## 💼 About Me
 
-🎓 Third-Year @ Shiv Nadar University — IoT Specialization  
+🎓 Final year @ Shiv Nadar University — IoT Specialization  
 🧠 Passionate about AI, Edge Devices, and Data-Driven Interfaces  
-🎤 Part of **Google Developer Group Core Team**  
+🎤 **Google Developer Group On Campus Lead**  
 🎯 Loves clean UIs, meaningful motion, and intuitive design.
 
 ---
