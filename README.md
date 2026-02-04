@@ -16,7 +16,7 @@
 ⬛🟫🟨                                                        🟨🟫⬛
 ⬛🟫🟨      ⚒️  W E L C O M E   T O   M Y   W O R L D  ⚒️       🟨🟫⬛
 ⬛🟫🟨                    ~ SHRUTHI ~                          🟨🟫⬛
-⬛🟫🟨       🌳 IoT  |  ⛏️ AI/ML  |  💎 Systems  |  🍄 Code    🟨🟫⬛
+⬛🟫🟨     ⚙️ Backend | 🧠 AI/ML | ☁️ Cloud | 💻 Full-Stack    🟨🟫⬛
 ⬛🟫🟨                                                        🟨🟫⬛
 ⬛🟫🟨🟨🟨🟨🟨🟨🟨🟨🟨🟨🟨🟨🟨🟨🟨🟨🟨🟨🟨🟨🟨🟨🟨🟨🟨🟨🟨🟨🟨🟨🟨🟨🟨🟨🟨🟨🟫⬛
 ⬛🟫🟫🟫🟫🟫🟫🟫🟫🟫🟫🟫🟫🟫🟫🟫🟫🟫🟫🟫🟫🟫🟫🟫🟫🟫🟫🟫🟫🟫🟫🟫🟫🟫🟫🟫🟫🟫🟫⬛
@@ -30,7 +30,7 @@
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="80"/>
 
 <!-- Typing Animation - Pixel Font Gaming Style -->
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=12&duration=3000&pause=1000&color=5BF870&background=0D111700&center=true&vCenter=true&multiline=true&repeat=true&width=650&height=80&lines=%E2%96%B6+LEVEL+UP:+Building+intelligent+systems...;%E2%96%B6+QUEST:+Bridging+hardware+%26+software...;%E2%96%B6+ACHIEVEMENT:+Turning+data+into+decisions..." alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=12&duration=3000&pause=1000&color=5BF870&background=0D111700&center=true&vCenter=true&multiline=true&repeat=true&width=650&height=80&lines=%E2%96%B6+LEVEL+UP:+Building+scalable+backend+systems...;%E2%96%B6+QUEST:+Training+ML+models+%26+deploying+to+cloud...;%E2%96%B6+ACHIEVEMENT:+Crafting+elegant+APIs+%26+architectures..." alt="Typing SVG" /></a>
 
 <!-- Social Badges -->
 <br/>
@@ -49,15 +49,15 @@
 ╔═══════════════════════════════════════════════════════════════╗
 ║                                                               ║
 ║  🏫 BASE: Shiv Nadar University                               ║
-║  🎯 CLASS: Final Year | IoT Specialization                    ║
+║  🎯 CLASS: Software Engineer | AI/ML Enthusiast               ║
 ║  ⭐ TITLE: GDG On Campus Lead                                  ║
 ║                                                               ║
 ║  ┌─────────────────────────────────────────────────────────┐  ║
 ║  │ SKILL TREE:                                             │  ║
-║  │  ├── 🌡️ Edge Computing & Embedded Systems               │  ║
-║  │  ├── 🧠 Machine Learning Pipelines                      │  ║
-║  │  ├── ⚡ Real-time Data Processing                       │  ║
-║  │  └── 🎨 Clean, Purposeful Design                        │  ║
+║  │  ├── ⚙️ Backend Systems & API Development               │  ║
+║  │  ├── 🧠 Machine Learning & Data Engineering             │  ║
+║  │  ├── ☁️ Cloud Architecture & DevOps                     │  ║
+║  │  └── 🎨 Full-Stack Web Development                      │  ║
 ║  └─────────────────────────────────────────────────────────┘  ║
 ║                                                               ║
 ║  💬 "Code with empathy. Design with purpose. Build for impact"║
@@ -73,28 +73,55 @@
 
 <div align="center">
 
-### 💎 Core Languages `[LEGENDARY]`
+### 🗡️ Languages `[MASTERED]`
 <p>
-<img src="https://skillicons.dev/icons?i=python,c,java,js,raspberrypi&theme=dark" />
+<img src="https://skillicons.dev/icons?i=python,js,ts,java,c&theme=dark" />
 </p>
 
-### 🔧 Frameworks & Runtime `[EPIC]`
+### ⚙️ Backend & APIs `[LEGENDARY]`
 <p>
-<img src="https://skillicons.dev/icons?i=nodejs,express,react,redux,nextjs,vite,spring&theme=dark" />
+<img src="https://skillicons.dev/icons?i=nodejs,express,spring,graphql&theme=dark" />
+<img src="https://img.shields.io/badge/REST_APIs-009688?style=for-the-badge&logo=fastapi&logoColor=white&labelColor=0d1117" />
+<img src="https://img.shields.io/badge/Apache_Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white&labelColor=0d1117" />
 </p>
 
-### 🧠 ML & Data Stack `[RARE]`
+### 🗄️ Databases `[EPIC]`
 <p>
-<img src="https://skillicons.dev/icons?i=tensorflow,pytorch&theme=dark" />
-<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white&labelColor=0d1117" />
-<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white&labelColor=0d1117" />
+<img src="https://skillicons.dev/icons?i=postgres,mongodb,mysql,redis&theme=dark" />
+<img src="https://img.shields.io/badge/H2-0000BB?style=for-the-badge&logoColor=white&labelColor=0d1117" />
+</p>
+
+### 🧠 AI/ML Stack `[RARE]`
+<p>
+<img src="https://skillicons.dev/icons?i=tensorflow&theme=dark" />
 <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white&labelColor=0d1117" />
-<img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black&labelColor=0d1117" />
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white&labelColor=0d1117" />
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white&labelColor=0d1117" />
 </p>
 
-### 🗄️ Data & DevOps `[UNCOMMON]`
+### 🎨 Frontend `[EPIC]`
 <p>
-<img src="https://skillicons.dev/icons?i=postgres,mongodb,mysql,supabase,docker,azure,git,github&theme=dark" />
+<img src="https://skillicons.dev/icons?i=react,nextjs,vite,html,css,tailwind&theme=dark" />
+</p>
+
+### ☁️ Cloud & DevOps `[RARE]`
+<p>
+<img src="https://skillicons.dev/icons?i=aws,gcp,docker,jenkins,nginx&theme=dark" />
+<img src="https://img.shields.io/badge/CI/CD-4285F4?style=for-the-badge&logo=githubactions&logoColor=white&labelColor=0d1117" />
+</p>
+
+### 🛠️ Tools `[UNCOMMON]`
+<p>
+<img src="https://skillicons.dev/icons?i=git,postman&theme=dark" />
+<img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white&labelColor=0d1117" />
+</p>
+
+### 📜 Concepts `[KNOWLEDGE]`
+<p>
+<img src="https://img.shields.io/badge/API_Design-FF6B6B?style=for-the-badge&labelColor=0d1117" />
+<img src="https://img.shields.io/badge/Event--Driven_Arch-9B59B6?style=for-the-badge&labelColor=0d1117" />
+<img src="https://img.shields.io/badge/System_Integration-3498DB?style=for-the-badge&labelColor=0d1117" />
+<img src="https://img.shields.io/badge/Agile/Scrum-2ECC71?style=for-the-badge&logo=scrumalliance&logoColor=white&labelColor=0d1117" />
 </p>
 
 </div>
@@ -156,8 +183,8 @@
  │                                                                │
  │   ⭐ ⭐ ⭐  LOOKING FOR PARTY MEMBERS!  ⭐ ⭐ ⭐                │
  │                                                                │
- │   💬  Open to collaborations on IoT, ML & full-stack quests   │
- │   📫  Send invite on LinkedIn — let's raid some projects!     │
+ │   💬  Open to collabs on Backend, ML & Full-Stack quests      │
+ │   📫  Send invite on LinkedIn — let's ship some code!         │
  │                                                                │
  │              [  🎮 PRESS START TO CONNECT  ]                   │
  │                                                                │
