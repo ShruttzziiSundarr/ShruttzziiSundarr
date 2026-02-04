@@ -141,55 +141,7 @@
 
 ---
 
-## `🗺️ ACTIVE QUESTS`
 
-<div align="center">
-<table>
-<tr>
-<td width="50%">
-<h3 align="center">🌡️ Smart Environment Monitor</h3>
-<p align="center">
-<img src="https://img.shields.io/badge/⚡_DIFFICULTY-HARD-ff6b6b?style=flat-square&labelColor=0d1117"/>
-</p>
-<p align="center">
-<a href="#"><img src="https://img.shields.io/badge/IoT-Raspberry%20Pi-C51A4A?style=flat-square&logo=raspberry-pi&logoColor=white&labelColor=0d1117"/></a>
-<a href="#"><img src="https://img.shields.io/badge/ML-TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white&labelColor=0d1117"/></a>
-</p>
-<p align="center"><em>🎯 Edge-based environmental monitoring with predictive analytics</em></p>
-</td>
-<td width="50%">
-<h3 align="center">📊 Real-time Dashboard</h3>
-<p align="center">
-<img src="https://img.shields.io/badge/⚡_DIFFICULTY-MEDIUM-5bf870?style=flat-square&labelColor=0d1117"/>
-</p>
-<p align="center">
-<a href="#"><img src="https://img.shields.io/badge/Frontend-React-61DAFB?style=flat-square&logo=react&logoColor=white&labelColor=0d1117"/></a>
-<a href="#"><img src="https://img.shields.io/badge/Data-PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white&labelColor=0d1117"/></a>
-</p>
-<p align="center"><em>🎯 Live data visualization with WebSocket streaming</em></p>
-</td>
-</tr>
-</table>
-</div>
-
----
-
-## `🎮 MULTIPLAYER MODE`
-
-<div align="center">
-
-```
- ┌────────────────────────────────────────────────────────────────┐
- │                                                                │
- │   ⭐ ⭐ ⭐  LOOKING FOR PARTY MEMBERS!  ⭐ ⭐ ⭐                │
- │                                                                │
- │   💬  Open to collabs on Backend, ML & Full-Stack quests      │
- │   📫  Send invite on LinkedIn — let's ship some code!         │
- │                                                                │
- │              [  🎮 PRESS START TO CONNECT  ]                   │
- │                                                                │
- └────────────────────────────────────────────────────────────────┘
-```
 
 <br/>
 
