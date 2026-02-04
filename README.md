@@ -1,76 +1,180 @@
-#SHRUTHI
+<!-- Dark Theme Animated README -->
 
-<img src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="100%"/>
+<div align="center">
 
-# Hey there, I'm Shruthi! 👋
-> Aspiring developer blending **IoT, AI/ML**, and **intelligent systems** into real-world solutions.  
-> Currently building 🔧 **Smart Applications** | Exploring 🌐 **ML Trends** | Writing 📚 cool code.
+<!-- Minecraft/Pixel Art Style Animated Header -->
+<img src="https://i.imgur.com/4ASafy0.gif" width="100%" alt="Minecraft Style Banner"/>
 
----
+<!-- OR use this Mario running animation -->
+<!-- <img src="https://media.giphy.com/media/jTNG3RF6EwbkpD4LZx/giphy.gif" width="150"/> -->
 
-## 💼 About Me
+<!-- Minecraft Sign Style Name Banner -->
+```
+⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛
+⬛🟫🟫🟫🟫🟫🟫🟫🟫🟫🟫🟫🟫🟫🟫🟫🟫🟫🟫🟫🟫🟫🟫🟫🟫🟫🟫🟫🟫🟫🟫🟫🟫🟫🟫🟫🟫🟫🟫⬛
+⬛🟫🟨🟨🟨🟨🟨🟨🟨🟨🟨🟨🟨🟨🟨🟨🟨🟨🟨🟨🟨🟨🟨🟨🟨🟨🟨🟨🟨🟨🟨🟨🟨🟨🟨🟨🟨🟨🟫⬛
+⬛🟫🟨                                                        🟨🟫⬛
+⬛🟫🟨      ⚒️  W E L C O M E   T O   M Y   W O R L D  ⚒️       🟨🟫⬛
+⬛🟫🟨                    ~ SHRUTHI ~                          🟨🟫⬛
+⬛🟫🟨       🌳 IoT  |  ⛏️ AI/ML  |  💎 Systems  |  🍄 Code    🟨🟫⬛
+⬛🟫🟨                                                        🟨🟫⬛
+⬛🟫🟨🟨🟨🟨🟨🟨🟨🟨🟨🟨🟨🟨🟨🟨🟨🟨🟨🟨🟨🟨🟨🟨🟨🟨🟨🟨🟨🟨🟨🟨🟨🟨🟨🟨🟨🟨🟫⬛
+⬛🟫🟫🟫🟫🟫🟫🟫🟫🟫🟫🟫🟫🟫🟫🟫🟫🟫🟫🟫🟫🟫🟫🟫🟫🟫🟫🟫🟫🟫🟫🟫🟫🟫🟫🟫🟫🟫🟫⬛
+⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛
+```
 
-🎓 Final year @ Shiv Nadar University — IoT Specialization  
-🧠 Passionate about AI, Edge Devices, and Data-Driven Interfaces  
-🎤 **Google Developer Group On Campus Lead**  
-🎯 Loves clean UIs, meaningful motion, and intuitive design.
+<!-- Animated Pixel Character -->
+<img src="https://media.giphy.com/media/QDjpIL6oNCVZ4qzGs7/giphy.gif" width="80"/>
+<img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="80"/>
+<img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="80"/>
+<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="80"/>
 
----
+<!-- Typing Animation - Pixel Font Gaming Style -->
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=12&duration=3000&pause=1000&color=5BF870&background=0D111700&center=true&vCenter=true&multiline=true&repeat=true&width=650&height=80&lines=%E2%96%B6+LEVEL+UP:+Building+intelligent+systems...;%E2%96%B6+QUEST:+Bridging+hardware+%26+software...;%E2%96%B6+ACHIEVEMENT:+Turning+data+into+decisions..." alt="Typing SVG" /></a>
 
-## 🔗 Let's Connect
+<!-- Social Badges -->
+<br/>
+<a href="https://www.linkedin.com"><img src="https://img.shields.io/badge/-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0d1117" alt="LinkedIn"/></a>
+<img src="https://komarev.com/ghpvc/?username=shruthi&style=for-the-badge&color=58a6ff&label=PROFILE+VIEWS&labelColor=0d1117" alt="Profile Views"/>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=flat-square)](https://www.linkedin.com)  
-📬 Feel free to DM or reach out — happy to collaborate or chat!
-
----
-
-## 💻 Tech Stack (Apr 2025)
-
-### 💡 Languages & Platforms
-![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=for-the-badge)
-![C](https://img.shields.io/badge/C-00599C?logo=c&logoColor=white&style=for-the-badge)
-![Java](https://img.shields.io/badge/Java-007396?logo=java&logoColor=white&style=for-the-badge)
-![Embedded C](https://img.shields.io/badge/Embedded%20C-CC0000?style=for-the-badge)
-![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-C51A4A?logo=raspberry-pi&logoColor=white&style=for-the-badge)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge)
-![SQL](https://img.shields.io/badge/SQL-4479A1?logo=sqlite&logoColor=white&style=for-the-badge)
-
-### ⚙️ Frameworks & Tools
-![Node.js](https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white&style=for-the-badge)
-![Express](https://img.shields.io/badge/Express-000000?logo=express&logoColor=white&style=for-the-badge)
-![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black&style=for-the-badge)
-![Redux](https://img.shields.io/badge/Redux-764ABC?logo=redux&logoColor=white&style=for-the-badge)
-![Next.js](https://img.shields.io/badge/Next.js-000000?logo=next.js&logoColor=white&style=for-the-badge)
-![Vite](https://img.shields.io/badge/Vite-646CFF?logo=vite&logoColor=white&style=for-the-badge)
-![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?logo=spring-boot&logoColor=white&style=for-the-badge)
-
-### 📊 ML, Data & Visualization
-![NumPy](https://img.shields.io/badge/NumPy-013243?logo=numpy&logoColor=white&style=for-the-badge)
-![Pandas](https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=white&style=for-the-badge)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?logo=tensorflow&logoColor=white&style=for-the-badge)
-![Keras](https://img.shields.io/badge/Keras-D00000?logo=keras&logoColor=white&style=for-the-badge)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?logo=pytorch&logoColor=white&style=for-the-badge)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?logo=scikit-learn&logoColor=white&style=for-the-badge)
-![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?logo=powerbi&logoColor=black&style=for-the-badge)
-![Apache Superset](https://img.shields.io/badge/Apache%20Superset-4D4D4D?style=for-the-badge)
-
-### 🛠️ Database & DevOps
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?logo=postgresql&logoColor=white&style=for-the-badge)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white&style=for-the-badge)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white&style=for-the-badge)
-![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-000000?style=for-the-badge)
-![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white&style=for-the-badge)
-![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?logo=github-actions&logoColor=white&style=for-the-badge)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?logo=supabase&logoColor=white&style=for-the-badge)
-![Azure](https://img.shields.io/badge/Azure-0078D4?logo=microsoft-azure&logoColor=white&style=for-the-badge)
-![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white&style=for-the-badge)
+</div>
 
 ---
 
-## 🧠 I Believe In
+<img align="right" src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" width="45%"/>
 
-```plaintext
-Code with empathy. 
-Design with purpose.
-Build for impact.
+## `🎮 SELECT CHARACTER`
+
+```
+╔═══════════════════════════════════════════════════════════════╗
+║                                                               ║
+║  🏫 BASE: Shiv Nadar University                               ║
+║  🎯 CLASS: Final Year | IoT Specialization                    ║
+║  ⭐ TITLE: GDG On Campus Lead                                  ║
+║                                                               ║
+║  ┌─────────────────────────────────────────────────────────┐  ║
+║  │ SKILL TREE:                                             │  ║
+║  │  ├── 🌡️ Edge Computing & Embedded Systems               │  ║
+║  │  ├── 🧠 Machine Learning Pipelines                      │  ║
+║  │  ├── ⚡ Real-time Data Processing                       │  ║
+║  │  └── 🎨 Clean, Purposeful Design                        │  ║
+║  └─────────────────────────────────────────────────────────┘  ║
+║                                                               ║
+║  💬 "Code with empathy. Design with purpose. Build for impact"║
+║                                                               ║
+╚═══════════════════════════════════════════════════════════════╝
+```
+
+<br clear="both"/>
+
+---
+
+## `⚔️ INVENTORY`
+
+<div align="center">
+
+### 💎 Core Languages `[LEGENDARY]`
+<p>
+<img src="https://skillicons.dev/icons?i=python,c,java,js,raspberrypi&theme=dark" />
+</p>
+
+### 🔧 Frameworks & Runtime `[EPIC]`
+<p>
+<img src="https://skillicons.dev/icons?i=nodejs,express,react,redux,nextjs,vite,spring&theme=dark" />
+</p>
+
+### 🧠 ML & Data Stack `[RARE]`
+<p>
+<img src="https://skillicons.dev/icons?i=tensorflow,pytorch&theme=dark" />
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white&labelColor=0d1117" />
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white&labelColor=0d1117" />
+<img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white&labelColor=0d1117" />
+<img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black&labelColor=0d1117" />
+</p>
+
+### 🗄️ Data & DevOps `[UNCOMMON]`
+<p>
+<img src="https://skillicons.dev/icons?i=postgres,mongodb,mysql,supabase,docker,azure,git,github&theme=dark" />
+</p>
+
+</div>
+
+---
+
+## `📊 PLAYER STATS`
+
+<div align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=shruthi&show_icons=true&hide_border=true&bg_color=0d1117&title_color=5bf870&text_color=c9d1d9&icon_color=5bf870&ring_color=5bf870" height="165" />
+<img src="https://github-readme-streak-stats.herokuapp.com?user=shruthi&theme=github-dark-blue&hide_border=true&background=0D1117&ring=5BF870&fire=FF6B6B&currStreakLabel=5BF870" height="165" />
+</div>
+
+<div align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=shruthi&bg_color=0d1117&color=5bf870&line=5bf870&point=ff6b6b&area=true&area_color=161b22&hide_border=true" width="95%"/>
+</div>
+
+---
+
+## `🗺️ ACTIVE QUESTS`
+
+<div align="center">
+<table>
+<tr>
+<td width="50%">
+<h3 align="center">🌡️ Smart Environment Monitor</h3>
+<p align="center">
+<img src="https://img.shields.io/badge/⚡_DIFFICULTY-HARD-ff6b6b?style=flat-square&labelColor=0d1117"/>
+</p>
+<p align="center">
+<a href="#"><img src="https://img.shields.io/badge/IoT-Raspberry%20Pi-C51A4A?style=flat-square&logo=raspberry-pi&logoColor=white&labelColor=0d1117"/></a>
+<a href="#"><img src="https://img.shields.io/badge/ML-TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white&labelColor=0d1117"/></a>
+</p>
+<p align="center"><em>🎯 Edge-based environmental monitoring with predictive analytics</em></p>
+</td>
+<td width="50%">
+<h3 align="center">📊 Real-time Dashboard</h3>
+<p align="center">
+<img src="https://img.shields.io/badge/⚡_DIFFICULTY-MEDIUM-5bf870?style=flat-square&labelColor=0d1117"/>
+</p>
+<p align="center">
+<a href="#"><img src="https://img.shields.io/badge/Frontend-React-61DAFB?style=flat-square&logo=react&logoColor=white&labelColor=0d1117"/></a>
+<a href="#"><img src="https://img.shields.io/badge/Data-PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white&labelColor=0d1117"/></a>
+</p>
+<p align="center"><em>🎯 Live data visualization with WebSocket streaming</em></p>
+</td>
+</tr>
+</table>
+</div>
+
+---
+
+## `🎮 MULTIPLAYER MODE`
+
+<div align="center">
+
+```
+ ┌────────────────────────────────────────────────────────────────┐
+ │                                                                │
+ │   ⭐ ⭐ ⭐  LOOKING FOR PARTY MEMBERS!  ⭐ ⭐ ⭐                │
+ │                                                                │
+ │   💬  Open to collaborations on IoT, ML & full-stack quests   │
+ │   📫  Send invite on LinkedIn — let's raid some projects!     │
+ │                                                                │
+ │              [  🎮 PRESS START TO CONNECT  ]                   │
+ │                                                                │
+ └────────────────────────────────────────────────────────────────┘
+```
+
+<br/>
+
+<!-- Pixel Art Footer -->
+```
+🌲🌲🌲🌲🌲🌲🏠🌲🌲🌲🌲🌲⛰️⛰️🌲🌲🌲🌲🏠🌲🌲🌲🌲🌲🌲
+░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░
+████████████████████████████████████████████████████
+```
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a4731,100:5bf870&height=100&section=footer" width="100%"/>
+
+</div>
+
+<!-- Easter egg: You found the secret! 🍄 +1UP -->
