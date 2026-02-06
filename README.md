@@ -128,18 +128,7 @@
 
 ---
 
-## `📊 PLAYER STATS`
 
-<div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=shruthi&show_icons=true&hide_border=true&bg_color=0d1117&title_color=5bf870&text_color=c9d1d9&icon_color=5bf870&ring_color=5bf870" height="165" />
-<img src="https://github-readme-streak-stats.herokuapp.com?user=shruthi&theme=github-dark-blue&hide_border=true&background=0D1117&ring=5BF870&fire=FF6B6B&currStreakLabel=5BF870" height="165" />
-</div>
-
-<div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=shruthi&bg_color=0d1117&color=5bf870&line=5bf870&point=ff6b6b&area=true&area_color=161b22&hide_border=true" width="95%"/>
-</div>
-
----
 
 
 
